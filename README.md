@@ -16,6 +16,7 @@
 </div>
 
 
+
 <h2 id="updates">🔥 Updates</h2>
 
 📆[2024-07-21] 🎈 We have released [MD-Judge-v0_2](https://huggingface.co/OpenSafetyLab/MD-Judge-v0_2-internlm2_7b), the new version of MD-Judge, enhanced with fine-grained distinction and detailed judgement process. 🎈
